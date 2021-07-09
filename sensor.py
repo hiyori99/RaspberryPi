@@ -1,3 +1,4 @@
+# モーションセンサーで人の動きを感知したらprintする（５秒ごと）
 from time import sleep
 from gpiozero import MotionSensor
 
